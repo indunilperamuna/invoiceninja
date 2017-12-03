@@ -1,7 +1,7 @@
 API
 ===
 
-Invoice Ninja provides a RESTful API, `click here <https://app.invoiceninja.com/api-docs#/>`_ to see the full list of methods available.
+Evoice provides a RESTful API, `click here <https://app.invoiceninja.com/api-docs#/>`_ to see the full list of methods available.
 
 To access the API you first need to create a token using the "API Tokens” page under "Advanced Settings”.
 
@@ -130,4 +130,4 @@ To email an invoice use the email_invoice command passing the id of the invoice.
 Subscriptions
 """""""""""""
 
-You can use subscriptions to have Invoice Ninja POST newly created records to a third-party application. To enable this feature you need to manually add a record to the subscriptions table. To determine the event_id find the associated EVENT_CREATE_ value from app/Constants.php.
+You can use subscriptions to have Evoice POST newly created records to a third-party application. To enable this feature you need to manually add a record to the subscriptions table. To determine the event_id find the associated EVENT_CREATE_ value from app/Constants.php.

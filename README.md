@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo.png" alt="Sublime's custom image"/>
 </p>
 
-# Invoice Ninja
+# Evoice
 
 [![Build Status](https://travis-ci.org/invoiceninja/invoiceninja.svg?branch=master)](https://travis-ci.org/invoiceninja/invoiceninja)
 [![Docs](https://readthedocs.org/projects/invoice-ninja/badge/?version=latest)](http://docs.invoiceninja.com/en/latest/?badge=latest)
@@ -79,7 +79,7 @@ Email us to be added to the list
 
 ## Contributing
 All contributors are welcome!  
-For information on how contribute to Invoice Ninja, please see our [contributing guide](CONTRIBUTING.md).
+For information on how contribute to Evoice, please see our [contributing guide](CONTRIBUTING.md).
 
 ## Credits
 * [Hillel Coren](https://hillelcoren.com/)
@@ -97,5 +97,5 @@ For information on how contribute to Invoice Ninja, please see our [contributing
 * [Matthieu Calie](https://github.com/Matth--)
 
 ## License
-Invoice Ninja is released under the Attribution Assurance License.  
+Evoice is released under the Attribution Assurance License.  
 See [LICENSE](LICENSE) for details.

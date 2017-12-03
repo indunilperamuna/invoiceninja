@@ -375,7 +375,7 @@ class AccountRepository
             $company->save();
 
             $account = new Account();
-            $account->name = 'Invoice Ninja';
+            $account->name = 'Evoice';
             $account->work_email = 'contact@invoiceninja.com';
             $account->work_phone = '(800) 763-1948';
             $account->account_key = NINJA_ACCOUNT_KEY;

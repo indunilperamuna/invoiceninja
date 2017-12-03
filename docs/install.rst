@@ -1,7 +1,7 @@
 Install
 =======
 
-Thanks for taking the time to setup Invoice Ninja.
+Thanks for taking the time to setup Evoice.
 
 .. Note:: The applications requires PHP >= 5.5.9 and MySQL.
 

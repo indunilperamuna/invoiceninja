@@ -1,9 +1,9 @@
 Email Settings
 ==============
 
-Email communication with your clients is an important part of the Invoice Ninja invoicing process – sending invoices via email, notifying clients that an invoice is due, reminding clients about overdue payments, and more.
+Email communication with your clients is an important part of the Evoice invoicing process – sending invoices via email, notifying clients that an invoice is due, reminding clients about overdue payments, and more.
 
-With the Email Settings feature, you can specify certain settings and designs for the notification emails your clients receive from your Invoice Ninja account.
+With the Email Settings feature, you can specify certain settings and designs for the notification emails your clients receive from your Evoice account.
 
 The Email Settings page includes two sections: **Email Settings** and **Email Designs**.
 
@@ -12,7 +12,7 @@ Email Settings
 
 - **Attach PDFs**: Want to be able to attach PDF files to your emails? Check the Enable box.
 
-- **Invoice Link**: When you email an invoice to a client, the invoice is viewable via a web link that is embedded in the notification email. The default link uses a URL from the Invoice Ninja site. If you wish to change the link to your own website or another subdomain, check the relevant box and enter the URL details.
+- **Invoice Link**: When you email an invoice to a client, the invoice is viewable via a web link that is embedded in the notification email. The default link uses a URL from the Evoice site. If you wish to change the link to your own website or another subdomain, check the relevant box and enter the URL details.
 
 Email Design
 """"""""""""

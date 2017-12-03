@@ -235,7 +235,7 @@ $LANG = array(
     'archived_vendors' => ':count dodavatelů bylo úspěšně archivováno',
     'deleted_vendor' => 'Dodavatel úspěšně smazán',
     'deleted_vendors' => ':count dodavatelů bylo úspěšně smazáno',
-    'confirmation_subject' => 'Invoice Ninja účet - ověření',
+    'confirmation_subject' => 'Evoice účet - ověření',
     'confirmation_header' => 'Ověření účtu',
     'confirmation_message' => 'Prosím klikněte na odkaz níže pro potvrzení Vašeho účtu.',
     'invoice_subject' => 'New invoice :number from :account',
@@ -244,7 +244,7 @@ $LANG = array(
     'payment_message' => 'Děkujeme za Vaši platbu vy výši :amount.',
     'email_salutation' => 'Vážený(á) :name,',
     'email_signature' => 'S pozdravem,',
-    'email_from' => 'Tým Invoice Ninja',
+    'email_from' => 'Tým Evoice',
     'invoice_link_message' => 'Pro zobrazení faktury klikněte na odkaz níže:',
     'notification_invoice_paid_subject' => 'Faktura :invoice byla zaplacena klientem :client',
     'notification_invoice_sent_subject' => 'Faktura :invoice byla odeslána klientovi :client',
@@ -260,7 +260,7 @@ $LANG = array(
     'cvv' => 'CVV kód',
     'logout' => 'Odhlásit se',
     'sign_up_to_save' => 'Pro uložení své práce se zaregistrujte',
-    'agree_to_terms' => 'Souhlasím s podmínkami Invoice Ninja :terms',
+    'agree_to_terms' => 'Souhlasím s podmínkami Evoice :terms',
     'terms_of_service' => 'Obchodní podmínky',
     'email_taken' => 'Tento email už byl registrován',
     'working' => 'Pracuji',
@@ -269,7 +269,7 @@ $LANG = array(
     'erase_data' => 'Váš účet není zaregistrován, toto permanentně smaže Vaše data.',
     'password' => 'Heslo',
     'pro_plan_product' => 'Profi plán',
-    'pro_plan_success' => 'Děkujeme za použití Profi plánu od Invoice Ninja!<p/>&nbsp;<br/>
+    'pro_plan_success' => 'Děkujeme za použití Profi plánu od Evoice!<p/>&nbsp;<br/>
                           <b>Další kroky</b><p/>Faktura k úhradě Vám byla zaslána na email spojený s tímto účtem.
                           Pro povolení všech skvělých profi vlastností si prosím přečtěte instrukce pro provedení platby na zaslané faktuře
                           pro roční využívání Profi plánu.<p/>
@@ -516,8 +516,8 @@ $LANG = array(
     'duplicate_post' => 'Varování: předchozí stránka byla odeslána dvakrát. Druhé odeslání bylo ignorováno.',
     'view_documentation' => 'Zobrazit dokumentaci',
     'app_title' => 'Open source online fakrurace',
-    'app_description' => 'Invoice Ninja je bezplatné open-source řešení pro fakturaci a účtování zákazníkům.
-    S Invoice Ninja, můžete jednoduše vytvářet a posílat hezké faktury z jakéhokoli zařízení, které má přístup na web. Vaši klienti si mohou faktury
+    'app_description' => 'Evoice je bezplatné open-source řešení pro fakturaci a účtování zákazníkům.
+    S Evoice, můžete jednoduše vytvářet a posílat hezké faktury z jakéhokoli zařízení, které má přístup na web. Vaši klienti si mohou faktury
      vytisknout, stáhnout jako PDF nebo Vám rovnou online zaplatit.',
     'rows' => 'řádky',
     'www' => 'www',
@@ -592,7 +592,7 @@ $LANG = array(
     'pro_plan_feature1' => 'Neomezené množství klientů',
     'pro_plan_feature2' => 'Přístup k 10 nádherným šablonám faktur',
     'pro_plan_feature3' => 'Volitelné URLs - "vaseznacka.InvoiceNinja.com"',
-    'pro_plan_feature4' => 'Odstranit "Vytvořeno Invoice Ninja"',
+    'pro_plan_feature4' => 'Odstranit "Vytvořeno Evoice"',
     'pro_plan_feature5' => 'Přístup více uživatelů & sledování aktivit',
     'pro_plan_feature6' => 'Vytváření nabídek & proforem',
     'pro_plan_feature7' => 'Úprava popisu polí faktur  & číslování',
@@ -1006,7 +1006,7 @@ $LANG = array(
     'overdue' => 'Po termínu',
 
 
-    'white_label_text' => 'Purchase a ONE YEAR white label license for $:price to remove the Invoice Ninja branding from the invoice and client portal.',
+    'white_label_text' => 'Purchase a ONE YEAR white label license for $:price to remove the Evoice branding from the invoice and client portal.',
     'user_email_footer' => 'Pro úpravu emailových notifikací prosím navštivte :link',
     'reset_password_footer' => 'Pokud jste nepožádali o resetování hesla, prosím kontaktujte naši podporu na: :email',
     'limit_users' => 'Omlouváme se, to už přesáhlo limit :limit uživatelů',
@@ -1015,7 +1015,7 @@ $LANG = array(
     'white_label_custom_css' => ':link za $:price  získáte volitelné úpravy a pomůžete podpoře našeho projektu.',
     'bank_accounts_help' => 'Připojte si bankovní účet pro automatický import nákladů a tvorbu dodavatelů. K dispozici pro American Express <a href=":link" target="_blank">přes 400 amerických bank.</a>',
 
-    'pro_plan_remove_logo' => ':link pro odstranění loga Invoice Ninja připojením se k profi plánu',
+    'pro_plan_remove_logo' => ':link pro odstranění loga Evoice připojením se k profi plánu',
     'pro_plan_remove_logo_link' => 'Klikněte zde',
     'invitation_status_sent' => 'Sent',
     'invitation_status_opened' => 'Opened',
@@ -1161,11 +1161,11 @@ $LANG = array(
 
     'white_label_button' => 'White Label',
 
-    'pro_plan_year_description' => 'One year enrollment in the Invoice Ninja Pro Plan.',
-    'pro_plan_month_description' => 'One month enrollment in the Invoice Ninja Pro Plan.',
+    'pro_plan_year_description' => 'One year enrollment in the Evoice Pro Plan.',
+    'pro_plan_month_description' => 'One month enrollment in the Evoice Pro Plan.',
     'enterprise_plan_product' => 'Enterprise Plan',
-    'enterprise_plan_year_description' => 'One year enrollment in the Invoice Ninja Enterprise Plan.',
-    'enterprise_plan_month_description' => 'One month enrollment in the Invoice Ninja Enterprise Plan.',
+    'enterprise_plan_year_description' => 'One year enrollment in the Evoice Enterprise Plan.',
+    'enterprise_plan_month_description' => 'One month enrollment in the Evoice Enterprise Plan.',
     'plan_credit_product' => 'Credit',
     'plan_credit_description' => 'Credit for unused time',
     'plan_pending_monthly' => 'Will switch to monthly on :date',
@@ -1336,7 +1336,7 @@ $LANG = array(
     'products_will_create' => 'products will be created',
     'product_key' => 'Product',
     'created_products' => 'Successfully created/updated :count product(s)',
-    'export_help' => 'Use JSON if you plan to import the data into Invoice Ninja.<br/>The file includes clients, products, invoices, quotes and payments.',
+    'export_help' => 'Use JSON if you plan to import the data into Evoice.<br/>The file includes clients, products, invoices, quotes and payments.',
     'JSON_file' => 'JSON File',
 
     'view_dashboard' => 'View Dashboard',
@@ -1806,7 +1806,7 @@ $LANG = array(
     'buy_now_buttons_disabled' => 'This feature requires that a product is created and a payment gateway is configured.',
     'enable_buy_now_buttons_help' => 'Enable support for buy now buttons',
     'changes_take_effect_immediately' => 'Note: changes take effect immediately',
-    'wepay_account_description' => 'Payment gateway for Invoice Ninja',
+    'wepay_account_description' => 'Payment gateway for Evoice',
     'payment_error_code' => 'There was an error processing your payment [:code]. Please try again later.',
     'standard_fees_apply' => 'Fee: 2.9%/1.2% [Credit Card/Bank Transfer] + $0.30 per successful charge.',
     'limit_import_rows' => 'Data needs to be imported in batches of :count rows or less',
@@ -1828,13 +1828,13 @@ $LANG = array(
     'bot_emailed_notify_paid' => 'I\'ll email you when it\'s paid.',
     'add_product_to_invoice' => 'Add 1 :product',
     'not_authorized' => 'You are not authorized',
-    'bot_get_email' => 'Hi! (wave)<br/>Thanks for trying the Invoice Ninja Bot.<br/>You need to create a free account on <a href="https://www.invoiceninja.com">invoiceninja.com</a> to use this bot.<br/>Send me your account email address to get started.',
+    'bot_get_email' => 'Hi! (wave)<br/>Thanks for trying the Evoice Bot.<br/>You need to create a free account on <a href="https://www.invoiceninja.com">invoiceninja.com</a> to use this bot.<br/>Send me your account email address to get started.',
     'bot_get_code' => 'Thanks! I\'ve sent a you an email with your security code.',
     'bot_welcome' => 'That\'s it, your account is verified.<br/>',
     'email_not_found' => 'I wasn\'t able to find an available account for :email',
     'invalid_code' => 'The code is not correct',
-    'security_code_email_subject' => 'Security code for Invoice Ninja Bot',
-    'security_code_email_line1' => 'This is your Invoice Ninja Bot security code.',
+    'security_code_email_subject' => 'Security code for Evoice Bot',
+    'security_code_email_line1' => 'This is your Evoice Bot security code.',
     'security_code_email_line2' => 'Note: it will expire in 10 minutes.',
     'bot_help_message' => 'I currently support:<br/>• Create\update\email an invoice<br/>• List products<br/>For example:<br/><i>invoice bob for 2 tickets, set the due date to next thursday and the discount to 10 percent</i>',
     'list_products' => 'List Products',
@@ -1845,10 +1845,10 @@ $LANG = array(
 
     'warning' => 'Warning',
     'self-update' => 'Update',
-    'update_invoiceninja_title' => 'Update Invoice Ninja',
-    'update_invoiceninja_warning' => 'Before start upgrading Invoice Ninja create a backup of your database and files!',
-    'update_invoiceninja_available' => 'A new version of Invoice Ninja is available.',
-    'update_invoiceninja_unavailable' => 'No new version of Invoice Ninja available.',
+    'update_invoiceninja_title' => 'Update Evoice',
+    'update_invoiceninja_warning' => 'Before start upgrading Evoice create a backup of your database and files!',
+    'update_invoiceninja_available' => 'A new version of Evoice is available.',
+    'update_invoiceninja_unavailable' => 'No new version of Evoice available.',
     'update_invoiceninja_instructions' => 'Please install the new version <strong>:version</strong> by clicking the <em>Update now</em> button below. Afterwards you\'ll be redirected to the dashboard.',
     'update_invoiceninja_update_start' => 'Update now',
     'update_invoiceninja_download_start' => 'Download :version',

@@ -1,7 +1,7 @@
 Templates & Reminders
 =====================
 
-There are a few different emails your customers receive from you via the Invoice Ninja system as part of your invoicing communications. These include the invoice notification email, quote notification email, payment notification email and various reminder emails. You can customize all your emails by selecting a template, text and design, and by specifying the frequency of reminder emails.
+There are a few different emails your customers receive from you via the Evoice system as part of your invoicing communications. These include the invoice notification email, quote notification email, payment notification email and various reminder emails. You can customize all your emails by selecting a template, text and design, and by specifying the frequency of reminder emails.
 
 Email Templates
 """""""""""""""
@@ -18,7 +18,7 @@ Invoice Email / Quote Email / Payment Email
 Reminder Emails
 """""""""""""""
 
-Sometimes, your clients need a friendly reminder about their outstanding payments. Invoice Ninja enables up to 3 reminder emails, and you can totally customize the email content and delivery schedule according to your preference.
+Sometimes, your clients need a friendly reminder about their outstanding payments. Evoice enables up to 3 reminder emails, and you can totally customize the email content and delivery schedule according to your preference.
 
 First Reminder / Second Reminder / Third Reminder
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

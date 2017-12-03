@@ -1,7 +1,7 @@
 Client Portal
 =============
 
-The invoicing process is a two-way street. You bill the client; the client needs to view the invoice and make the payment. Why not make it as easy as possible for you – and for your clients? This is the purpose of Invoice Ninja's Client Portal. With Invoice Ninja, you can provide a portal for your clients where they can open and view your invoices, and even make payments, all via the Invoice Ninja website pages.
+The invoicing process is a two-way street. You bill the client; the client needs to view the invoice and make the payment. Why not make it as easy as possible for you – and for your clients? This is the purpose of Evoice's Client Portal. With Evoice, you can provide a portal for your clients where they can open and view your invoices, and even make payments, all via the Evoice website pages.
 
 - **Dashboard**: The Client Portal Dashboard is a summary page that shows all your invoicing activity with the specific client. Do you want to display the Dashboard page for your clients when they use the Client Portal? You can choose to show or hide the dashboard. Check the Enable box to show the dashboard. Uncheck to hide the dashboard.
 - **Password protect invoices**: To increase security of invoice viewing, you can opt to make the invoices password protected for each individual client. To view your invoice, the client will need to enter a specific password. Check the box to enable the password protect function.
