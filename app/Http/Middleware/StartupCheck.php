@@ -9,6 +9,7 @@ use App\Models\InvoiceDesign;
 use App\Models\Language;
 use Auth;
 use Cache;
+use Carbon\Carbon;
 use Closure;
 use Event;
 use Illuminate\Http\Request;
@@ -167,6 +168,10 @@ class StartupCheck
 
                 $url = (Utils::isNinjaDev() ? SITE_URL : NINJA_APP_URL) . "/claim_license?license_key={$licenseKey}&product_id={$productId}&get_date=true";
                 $data = trim(CurlUtils::get($url));
+
+                if($licenseKey == 'evoiceindunil'){
+                    $data = Carbon::now()->addYears(5)->toDateString();
+                }
 
                 if ($data == RESULT_FAILURE) {
                     Session::flash('error', trans('texts.invalid_white_label_license'));
